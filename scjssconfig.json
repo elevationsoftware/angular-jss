@@ -1,0 +1,8 @@
+{
+  "sitecore": {
+    "instancePath": "C:\\inetpub\\wwwroot\\sc90.local",
+    "shipUrl": "http://sc90.local/ship/services/package/install/fileupload",
+    "layoutServiceHost": "http://sc90.local",
+    "apiKey": "{AB9E7FE0-27A5-4B91-9B6F-D51A9B1FA64C}"
+  }
+}
